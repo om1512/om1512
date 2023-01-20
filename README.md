@@ -1,8 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Om Dhingani</h1>
 
-
----
 ### About me
 
 * 🌍  I'm based in Gujarat, India
