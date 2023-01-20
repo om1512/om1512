@@ -12,8 +12,7 @@
 
 ---
 
-<a href="https://www.github.com/om1512" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/om1512?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=om1512&label=Profile%20views&color=0e75b6&style=flat" alt="om1512" /> </p>
 
 ---
 ### Skills
@@ -52,7 +51,6 @@ src="https://img.shields.io/github/followers/om1512?logo=github&style=for-the-ba
 ---
 
 ### Let's work together on your next Project...
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om1512&label=Profile%20views&color=0e75b6&style=flat" alt="om1512" /> </p>
 
 ## Thank You!!
 
