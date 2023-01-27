@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Vineet1924/Vineet1924/blob/main/banner.png)
 <h1 align="center">Hello 👋, I'm Om Dhingani</h1>
 
 ### About me
