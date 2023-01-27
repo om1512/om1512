@@ -1,5 +1,6 @@
-![logo](https://github.com/Vineet1924/Vineet1924/blob/main/banner.png)
 <h1 align="center">Hello 👋, I'm Om Dhingani</h1>
+
+![logo](Poster.jpg)
 
 ### About me
 
@@ -40,16 +41,12 @@
 ---
 ### My GitHub Stats
 
-<a href="http://www.github.com/om1512"><img src="https://github-readme-stats.vercel.app/api?username=om1512&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="om1512's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om1512&layout=compact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true")](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 <a href="https://github.com/om1512" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1512&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
 ---
-
-### Let's work together on your next Project...
 
 ## Thank You!!
 
