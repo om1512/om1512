@@ -12,7 +12,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om1512&label=Profile%20views&color=0e75b6&style=flat" alt="om1512" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=om1512&label=Profile%20views&color=0e75b6&style=flat" alt="om1512" /> </p> -->
 
 ---
 ### Skills
