@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Om Dhingani</h1>
 
-<!-- ![logo](Poster.jpg) -->
+![logo](Poster.jpg)
 
 ### About me
 
