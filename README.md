@@ -33,5 +33,4 @@
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=om1512&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
-
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1512&theme=synthwave&hide_border=false" alt="profile-radme-generator" />
