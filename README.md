@@ -26,11 +26,5 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=om1512&show_icons=true&theme=synthwave&locale=en&hide_border=false" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=om1512&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=om1512&theme=synthwave&hide_border=false" alt="profile-radme-generator" />
+| <img src ="https://github-readme-streak-stats.herokuapp.com?user=om1512&theme=monokai-metallian&hide_border=true">  | <img alt="om1512's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=om1512&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/> |
+| -------- | ------- |
