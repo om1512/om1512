@@ -10,7 +10,7 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=om1512&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-- 💪🏼 Working on [Real Estate Based Flutter application](https://github.com/om1512/estateease)
+- 💪🏼 Sharping my Logic Building skills.
 
 - 🌱 I’m currently learning **Flutter & MERN Stack**
 
