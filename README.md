@@ -12,7 +12,7 @@
 
 - 💪🏼 Sharping my Logic Building skills.
 
-- 🌱 I’m currently learning **Flutter & MERN Stack**
+- 🌱 I’m currently learning **DP**
 
 - 💬 Ask me about **Java, Android and Flutter**
 
