@@ -12,7 +12,7 @@
 
 - 💪🏼 Sharping my Logic Building skills.
 
-- 🌱 I’m currently learning **DP**
+- 🌱 I’m currently learning **Spring BOOT with Advance Java**
 
 - 💬 Ask me about **Java, Android and Flutter**
 
